@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "172.22.11.2",
+    "project": "Bee Bot V2.2 (Working ~ Current) (no shuffle board or auton chooser)"
+  }
+]

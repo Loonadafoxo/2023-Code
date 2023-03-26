@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project Paetow2023)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "G:\\Code Green Java code\\2023 Code\\Paetow2023\\build\\jni\\release\\halsim_gui.dll",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "G:\\Code Green Java code\\2023 Code\\Paetow2023\\build\\jni\\release\\halsim_ds_socket.dll",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "G:\\Code Green Java code\\2023 Code\\Paetow2023\\build\\jni\\release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
